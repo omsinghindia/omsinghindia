@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm OM SINGH</h1>
 <h3 align="center">A passionate about Artificial Intelligence and Machine Learning</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omsinghindia&label=Profile%20views&color=0e75b6&style=flat" alt="omsinghindia" /> </p>
+
+
 <p align="left"> <a href="https://twitter.com/osindia01" target="blank"><img src="https://img.shields.io/twitter/follow/osindia01?logo=twitter&style=for-the-badge" alt="osindia01" /></a> </p>
 
 - 💬 Ask me about **Artificial Intelligence**
